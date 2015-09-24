@@ -1,0 +1,3 @@
+C:\Git repos\I4IKN\TcpListener msdn-test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Git repos\I4IKN\TcpListener msdn-test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Git repos\I4IKN\TcpListener msdn-test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
